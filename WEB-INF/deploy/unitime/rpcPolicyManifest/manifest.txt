@@ -1,0 +1,9 @@
+# Module unitime
+# RPC service class, partial path of RPC policy file
+org.unitime.timetable.gwt.services.SavedHQLService, 79D85B1177047E917D4AAC5F96114C42.gwt.rpc
+com.google.gwt.logging.shared.RemoteLoggingService, DC7FE7F347B1CB46E9C3B81005A76D44.gwt.rpc
+org.unitime.timetable.gwt.services.CurriculaService, DA1C1D68E6043D4B7796763CE3CE4D11.gwt.rpc
+org.unitime.timetable.gwt.services.MenuService, 74591A8F7B6198E8602A4C2DF4C104EA.gwt.rpc
+org.unitime.timetable.gwt.services.ReservationService, BD0DC8290D82652082F18E3C556858E6.gwt.rpc
+org.unitime.timetable.gwt.services.SectioningService, AA5FA7AD66096D29548D306EE04ECE99.gwt.rpc
+org.unitime.timetable.gwt.command.client.GwtRpcService, A568830A8558AC88F83522A72FE489C2.gwt.rpc

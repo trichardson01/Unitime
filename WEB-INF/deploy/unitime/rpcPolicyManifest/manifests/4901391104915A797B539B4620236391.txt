@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.MenuService
+path: 74591A8F7B6198E8602A4C2DF4C104EA.gwt.rpc

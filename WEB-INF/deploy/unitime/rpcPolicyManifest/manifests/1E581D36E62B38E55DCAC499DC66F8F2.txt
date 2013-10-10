@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.SavedHQLService
+path: 79D85B1177047E917D4AAC5F96114C42.gwt.rpc
